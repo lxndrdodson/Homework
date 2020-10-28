@@ -1,4 +1,4 @@
-# fintechhomework
+# Homework 1
 
 Carta Case Study
 Alexandra Dodson
