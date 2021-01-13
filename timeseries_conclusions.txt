@@ -5,19 +5,5 @@ The risk of the yen is expected to increase
 
 Having evaluated the p-values from the models, I would not use these for trading.
 
-Conclusions
-The Yen is forecasted to increase in price over the next 5 days--yes.
-
-The risk of the yen is expected to increase
-
-Having evaluated the p-values from the models, I would not use these for trading.
-
-Conclusions
-The Yen is forecasted to increase in price over the next 5 days--yes.
-
-The risk of the yen is expected to increase
-
-Having evaluated the p-values from the models, I would not use these for trading.
-
 
 On the out-of-sample data when using the manual selection for train/test splits, the model performed significantly worse. Using SKLearn model selection for 'train_test_split', the model produces comparable results for out-of-sample data and in-sample data.
