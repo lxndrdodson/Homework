@@ -39,8 +39,11 @@ The X_train and X_test values to fit the model were reshaped to fit the model's 
 The same custom LSTM RNN architecture is used in each notebook, the FNG notebook contains corresponding data used to train the model. The second notebook uses closing prices data to train the model. 
 
 epochs = 50
+
 batch = 10
+
 number_units = 30
+
 dropout_fraction = 0.2
 
 
