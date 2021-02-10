@@ -24,9 +24,7 @@ Here, we've built and evaluated two deep learning recurrent neural networks (RNN
 
 ### Prepare the data for training and testing
 
-Evaluating the Fear and Greed model, I used FNG values to predict closing prices.
-
-Evaluating the closing price model, I used previous closing prices to predict future closing prices. 
+Evaluating the Fear and Greed model, I used FNG values to predict closing prices and past closing prices to predict future closing prices. 
 
 Each of these models uses 70% of the data for training and 30% of the data for testing.
 
