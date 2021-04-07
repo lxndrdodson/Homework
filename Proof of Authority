@@ -1,0 +1,10 @@
+Proof of Authority Development Chain
+
+Starting the Network
+1. Install MyCrypto
+2. Install Go Ethereum Tools
+3. Navigate to "Blockchain-Tools" folder in terminal
+4. Run Puppeth
+5. Set up custom node in MyCrypto
+6. Send Transaction
+7. Check TX status
